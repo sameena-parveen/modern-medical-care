@@ -1,0 +1,17 @@
+#form{
+    width:60%;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+    color:white;
+    background-color:rgb(189, 101, 101);
+    padding:20px;
+    text-align:center;
+    font-family:Arial;
+    border-radius: 20px;
+
+}
+#form input{
+    height:20px;
+}
